@@ -1,0 +1,22 @@
+WEBVTT
+
+00:00:00.810 --> 00:00:04.890
+Now that we've finished learning about our data analysis libraries it's time to actually start visualizing
+
+00:00:04.890 --> 00:00:05.740
+that data.
+
+00:00:05.820 --> 00:00:10.970
+We'll start off by learning about MAP plot live then we'll move on to seaborne for statistical plots
+
+00:00:10.970 --> 00:00:11.220
+.
+
+00:00:11.250 --> 00:00:15.750
+Afterwards we'll learn about pandas built in data visualization capabilities and then we'll see how
+
+00:00:15.750 --> 00:00:20.260
+to use plot to create awesome interactive plots with just a few lines of Python code.
+
+00:00:20.490 --> 00:00:22.610
+Thank you so much and I'll see you at the next lecture.

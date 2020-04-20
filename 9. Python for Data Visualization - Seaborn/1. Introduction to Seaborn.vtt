@@ -1,0 +1,115 @@
+WEBVTT
+
+00:00:05.280 --> 00:00:09.840
+Hello everyone and welcome to the introduction to Seaborn lecture and this lecture we're going to briefly
+
+00:00:09.840 --> 00:00:15.060
+go over what seaborne is how to get it installed onto your computer and how to find the official documentation
+
+00:00:15.060 --> 00:00:16.520
+.
+
+00:00:17.130 --> 00:00:22.460
+Seaborn is a statistical plotting library and it's built on top of map plot lib.
+
+00:00:22.500 --> 00:00:26.460
+So all that map plot lib knowledge that we just learned is going to be really useful when learning about
+
+00:00:26.460 --> 00:00:32.520
+seaborne seaborne has really beautiful default styles and it's also designed to work really well with
+
+00:00:32.520 --> 00:00:38.400
+depan those data from objects in order to get it installed onto your computer.
+
+00:00:38.400 --> 00:00:40.710
+You're going to have to use either Kada install seaborne.
+
+00:00:40.710 --> 00:00:46.050
+If he's in the Anaconda distribution of Python or if you install Python from some other source you can
+
+00:00:46.050 --> 00:00:51.770
+also use Pipp install seaborne and just do either your command line or terminal.
+
+00:00:52.470 --> 00:00:55.250
+Let's go ahead and get a quick tour of the official Web site.
+
+00:00:55.470 --> 00:00:59.630
+I'm going to go and go to Google and show you how to find the official documentation.
+
+00:00:59.640 --> 00:01:04.650
+All right here I am at Google in order to find the link to the official documentation.
+
+00:01:04.800 --> 00:01:14.090
+Since Seaborn is open source it's hosted on get home so you can go in and say get seaborne python.
+
+00:01:14.760 --> 00:01:19.330
+And that should take you to this firstling right here hub.
+
+00:01:19.710 --> 00:01:25.050
+And on this page you actually can read all the code says it's open source as far as the statistical
+
+00:01:25.050 --> 00:01:27.210
+library for this data visualization.
+
+00:01:27.210 --> 00:01:31.920
+But more importantly you scroll down here you'll see a link to the official documentation.
+
+00:01:31.950 --> 00:01:37.230
+Go ahead and click this link and it should take it to the official documentation page.
+
+00:01:37.230 --> 00:01:42.160
+Now something that's nice about this official documentation page is just like any map plot lib site
+
+00:01:42.480 --> 00:01:47.900
+it has a gallery something that's not so nice is that I wouldn't use this gallery as a reference.
+
+00:01:48.030 --> 00:01:52.870
+It's more just of a couple of nice examples of what seaborne was able to do.
+
+00:01:52.870 --> 00:01:59.760
+So go out and click on some of these pictures such as heat map violin plot box plot adjoint plot and
+
+00:01:59.760 --> 00:02:04.050
+we're going to learn how to create all these plots how to use C more effectively with pandas.
+
+00:02:04.350 --> 00:02:07.930
+So here's just a couple of quick examples of the kind of things we're going to able to do.
+
+00:02:07.980 --> 00:02:14.540
+We're going to make really nice looking heat plots or heat maps violin plots grouped box plots and hex
+
+00:02:14.540 --> 00:02:20.360
+been joint plots you can already probably tell that see Bourne and style go hand-in-hand.
+
+00:02:20.490 --> 00:02:24.180
+SEABORNE is a really nice looking visualization library.
+
+00:02:24.180 --> 00:02:30.720
+The other really important link besides the gallery page is the API and the API reference is basically
+
+00:02:30.720 --> 00:02:33.270
+a reference to the various plot types here.
+
+00:02:33.270 --> 00:02:36.530
+And this is what we're going to be going over as we learn how to use Seaborn.
+
+00:02:36.630 --> 00:02:41.100
+So we're going to really effectively learn how to actually call these plots utilize pandas of these
+
+00:02:41.100 --> 00:02:45.360
+plots and create really nice looking statistical plot visualizations.
+
+00:02:45.540 --> 00:02:46.150
+All right.
+
+00:02:46.260 --> 00:02:47.510
+I'm really excited to get started.
+
+00:02:47.520 --> 00:02:53.010
+Seaborn is one of my favorite libraries for Python So let's go ahead and jump to the next lecture or
+
+00:02:53.010 --> 00:02:55.650
+actually start coding out Seaborn code.
+
+00:02:55.680 --> 00:02:57.540
+Thanks everyone and I'll see you at the next lecture

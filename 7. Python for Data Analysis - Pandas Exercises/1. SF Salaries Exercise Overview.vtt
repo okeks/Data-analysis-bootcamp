@@ -1,0 +1,100 @@
+WEBVTT
+
+00:00:05.400 --> 00:00:10.680
+Hello everyone and welcome to the S.F. salary's overview lecture and this lecture we're going to get
+
+00:00:10.680 --> 00:00:15.600
+a brief overview of the salaries exercise for the pandas section of the course.
+
+00:00:15.750 --> 00:00:18.400
+Then in the next lecture we'll go through the solutions.
+
+00:00:18.660 --> 00:00:22.590
+Let's go ahead and jump to the Jupiter notebook for the ESA salaries exercise.
+
+00:00:22.740 --> 00:00:27.960
+You can find this Jupiter notebook under the panda's exercises folder which is under the Panthers folder
+
+00:00:28.200 --> 00:00:30.880
+which is on the Python for data analysis folder.
+
+00:00:31.080 --> 00:00:35.280
+Basically in the same folder we've been working with throughout this section of the course.
+
+00:00:35.280 --> 00:00:35.660
+OK.
+
+00:00:35.880 --> 00:00:38.210
+Let's go ahead and jump to Jupiter notebook now.
+
+00:00:38.620 --> 00:00:41.910
+OK here we are at the cheaper notebook for S.F. salaries.
+
+00:00:41.910 --> 00:00:46.230
+Basically it's going to be a quick exercise free to practice your piano skills are going to be using
+
+00:00:46.530 --> 00:00:51.640
+the S.F. salary's dataset from Kaggle or some people pronounce it Kaggle dot com.
+
+00:00:51.870 --> 00:00:55.920
+You click on this link it will take you to the link for the S.F. salary's data set.
+
+00:00:55.950 --> 00:00:59.840
+Don't worry the status it's actually already downloaded and included in the same folder.
+
+00:00:59.850 --> 00:01:01.100
+We will find the notebook.
+
+00:01:01.170 --> 00:01:05.310
+But you can check out without com for some more interesting information about the status that we'll
+
+00:01:05.310 --> 00:01:06.280
+talk about this Web site.
+
+00:01:06.300 --> 00:01:09.450
+A lot more when we reached the machine learning section of the course.
+
+00:01:09.600 --> 00:01:13.410
+For now just consider a place where you can find data sets.
+
+00:01:14.260 --> 00:01:14.700
+OK.
+
+00:01:14.730 --> 00:01:20.580
+When she reached this notebook all you have to do is follow the commands written out in bold or answer
+
+00:01:20.580 --> 00:01:22.740
+the questions written out in bold for instance.
+
+00:01:22.770 --> 00:01:28.470
+You'll start off really simply just importing pins PD reading the CSP file as a data frame and as you
+
+00:01:28.470 --> 00:01:33.990
+go on the questions are going to get harder and harder until at the very end you have some label questions
+
+00:01:33.990 --> 00:01:34.330
+here.
+
+00:01:34.350 --> 00:01:38.640
+These are the hardest ones and you have a bonus question which has a little bit of material that we
+
+00:01:38.640 --> 00:01:39.780
+haven't actually covered yet.
+
+00:01:39.810 --> 00:01:41.720
+So it's a last bonus question.
+
+00:01:41.960 --> 00:01:42.400
+OK.
+
+00:01:42.450 --> 00:01:48.200
+Keep in mind that the expected answers are available for you here to check or in the solutions notebook
+
+00:01:48.270 --> 00:01:48.860
+.
+
+00:01:48.870 --> 00:01:49.590
+All right.
+
+00:01:49.590 --> 00:01:53.610
+Best of luck everyone and I'll see you at the next lecture where we will walk through these solutions

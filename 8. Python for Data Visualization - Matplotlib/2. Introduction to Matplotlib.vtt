@@ -1,0 +1,148 @@
+WEBVTT
+
+00:00:05.190 --> 00:00:09.990
+Hello everyone and welcome to the introduction to lib lecture and this lecture we're going to get a
+
+00:00:09.990 --> 00:00:15.560
+brief introduction of what Matt it is and then show you just a little bit of the Web site from plotless
+
+00:00:15.680 --> 00:00:16.300
+.
+
+00:00:16.940 --> 00:00:23.160
+Matt lib or as some people pronounce it Matt plus libe is the most popular plodding library for Python
+
+00:00:23.590 --> 00:00:29.370
+and it really gives you complete control over almost every aspect of a figure or plot and it's designed
+
+00:00:29.370 --> 00:00:34.950
+to have a very similar feel to Matlab which is another programming language in its own graphical plotting
+
+00:00:34.950 --> 00:00:40.650
+capabilities map plot lib works very well with Pandanus and umpire race which is why we're going to
+
+00:00:40.650 --> 00:00:42.100
+learn about it later on.
+
+00:00:42.090 --> 00:00:46.420
+We're going to learn about some other libraries such as Seaborn that is actually built off of Matt Plup
+
+00:00:46.430 --> 00:00:46.900
+live.
+
+00:00:47.100 --> 00:00:52.500
+But in order to understand those libraries it's important to understand that plot lived First you'll
+
+00:00:52.500 --> 00:00:57.450
+need to install it with either Pipp or Konda at your command line or terminal with one of the following
+
+00:00:57.450 --> 00:01:00.580
+commands for using the Anaconda distribution of python.
+
+00:01:00.720 --> 00:01:06.270
+A simple Konda install Matt Cutlip at your command line or terminal should install that live for you
+
+00:01:06.270 --> 00:01:06.660
+.
+
+00:01:06.660 --> 00:01:11.840
+Or if you using another version of Python Pipp install matplotlib should also work for you.
+
+00:01:11.850 --> 00:01:15.160
+Now let's go ahead and get a quick tour of the official website.
+
+00:01:15.600 --> 00:01:21.440
+Ok here I am at that plot live org which is the official Web site for map plot lym you'll see here there's
+
+00:01:21.450 --> 00:01:26.220
+some introduction information as well as some more official installation instructions and some other
+
+00:01:26.220 --> 00:01:27.890
+documentation links.
+
+00:01:27.960 --> 00:01:32.850
+Probably the most important link on this page however is right here under gallery.
+
+00:01:33.030 --> 00:01:38.430
+If you click on gallery or go to that part live the org slash gallery you'll get taken to this link
+
+00:01:38.550 --> 00:01:42.710
+and you should see a list of a bunch of different types of plot names.
+
+00:01:42.960 --> 00:01:47.880
+And if you keep scrolling down you'll see that there's a bunch of figures or example figures and these
+
+00:01:47.880 --> 00:01:52.310
+are all the various types of plots that Cutlip is capable of creating for you.
+
+00:01:52.470 --> 00:01:56.800
+Later on we'll learn how to use other libraries that are better for things such as the fiscal plots
+
+00:01:56.810 --> 00:01:56.910
+.
+
+00:01:57.150 --> 00:02:01.470
+But if you ever find yourself having a question of that plot lives capabilities you can come to this
+
+00:02:01.470 --> 00:02:04.580
+page and search for the kind of plot you're looking for.
+
+00:02:04.590 --> 00:02:08.960
+For example if I go ahead and scroll back up here let's say you want to make a pie chart.
+
+00:02:09.180 --> 00:02:12.800
+Will you come here and there's a gallery look for where it says pie charts.
+
+00:02:12.990 --> 00:02:13.640
+Click here.
+
+00:02:13.650 --> 00:02:14.980
+High end polar charts.
+
+00:02:15.060 --> 00:02:19.950
+They'll come down to this link and then I'll show you some couple of figures here that are hopefully
+
+00:02:19.950 --> 00:02:24.360
+relevant examples once you find one that looks like what you want to do is go in and click this first
+
+00:02:24.360 --> 00:02:25.240
+one.
+
+00:02:25.390 --> 00:02:30.420
+It will take you to an example page that not only has to figure but also has very well commented code
+
+00:02:30.720 --> 00:02:34.800
+and instructions on how to perform whatever plots you're looking for.
+
+00:02:34.830 --> 00:02:37.170
+In this case a pie chart.
+
+00:02:37.170 --> 00:02:37.790
+All right.
+
+00:02:37.890 --> 00:02:40.740
+So that's probably the most helpful page on that putt.
+
+00:02:40.800 --> 00:02:45.000
+The other links are just basically links to the documentation functions in it.
+
+00:02:45.150 --> 00:02:48.600
+And we're going to go over the most common functions as we continue on throughout this section of the
+
+00:02:48.600 --> 00:02:49.560
+course.
+
+00:02:49.560 --> 00:02:50.220
+All right.
+
+00:02:50.220 --> 00:02:54.570
+Remember that matplotlib org is a resource for you especially the gallery page.
+
+00:02:54.570 --> 00:02:58.950
+Coming up next we're going to show you how to actually use Matt Plett live to create your own figures
+
+00:02:58.950 --> 00:02:59.500
+.
+
+00:02:59.520 --> 00:03:01.440
+Thanks everyone and I'll see you at the next lecture
